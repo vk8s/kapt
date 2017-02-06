@@ -1,4 +1,4 @@
-package main // import "vk8s.io/kapt/cmd/agent"
+package main // import "vk8s.org/kapt/cmd/agent"
 
 import "fmt"
 
